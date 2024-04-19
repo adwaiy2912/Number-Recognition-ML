@@ -3,7 +3,7 @@
 This Jupyter notebook provides a demonstration of using various machine learning models to classify handwritten digits from the MNIST dataset.
 MNIST is a popular dataset in the machine learning community, containing 28x28 pixel grayscale images of handwritten digits (0 through 9).  
 
-This notebook is made in reference to my college's Machine Learning lab mini-project that aims to showcase practical implementation of machine learning algorithms for digit recognition.
+This notebook is made in reference to my college's Machine Learning Lab mini-project that aims to showcase practical implementation of machine learning algorithms for digit recognition.
 
 ## Prerequisites
 
